@@ -37,3 +37,10 @@ Session.vim
 boost/*
 .DS_Store
 *DS_Store
+src/twinkle
+src/compile
+src/config.guess
+src/config.sub
+src/depcomp
+src/install-sh
+src/missing
