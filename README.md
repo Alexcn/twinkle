@@ -4,4 +4,4 @@ twinkle = pgbouncer + pgpool
 
 middleware for postgres
 
-Golang 实现
+written in Golang
